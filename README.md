@@ -1,6 +1,8 @@
 # Graph Neural Networks
-## List of academic institutes/companies working on Graph Neural Networks
+## List of academic institutions and companies conducting research and development in Graph Neural Networks
 If you know of any institutes or companies working on Graph Neural Networks (GNNs) that are not listed here, please contribute by submitting a pull request, opening an issue with the details or contacting me at nemat.saeidi@gmail.com. Thank you!
+
+![GNNs_image](https://github.com/nematollahsaeidi/GraphNeuralNetworks/blob/main/GNNs_image.png)
 
 Below is a table summarizing research labs and institutes actively working on GNNs for your README file:
 
@@ -29,9 +31,11 @@ Below is a table summarizing research labs and institutes actively working on GN
 - [Graph Research Lab Australian National University](https://graphlabanu.github.io/)
 - [Facebook AI Research official page](https://ai.facebook.com/)
 - [Google Research official page](https://research.google/)
+- [Graph Neural Networks in Action](https://www.amazon.com/Graph-Neural-Networks-Action-Broadwater/dp/1617299057)
 - [Thomas Kipf personal website](https://tkipf.github.io/)
 - [Petar Veličković personal website](https://petar-v.com/)
 - [Zachary Lipton personal website](https://www.zacharylipton.com/)
 - [Stefano Ermon research group website](https://ermongroup.github.io/)
 - [Jennifer Neville faculty page Purdue University](https://www.cs.purdue.edu/homes/jneville/)
 - [Jian Tang personal website](https://jiantang.com/)
+- [Graph Neural Networks in Action](https://books.google.at/books?id=r508zwEACAAJ)
