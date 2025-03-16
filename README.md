@@ -13,12 +13,16 @@ Below is a table summarizing research labs and institutes actively working on GN
 | Jure Leskovec's Research Group                         | Stanford University                     | USA     | [Link](https://cs.stanford.edu/people/jure/)                     |
 | Machine Learning Department                            | Carnegie Mellon University              | USA     | [Link](https://www.ml.cmu.edu/)                                  |
 | Prof. Lio's Research Group                             | University of Cambridge                 | UK      | [Link](https://www.cl.cam.ac.uk/~pl219/)                         |
+| Suzumura Laboratory                                    | University of Tokyo                     | Japan   | [Link](https://sites.google.com/view/toyolab/home?authuser=0)                         |
+| MIT-IBM Watson AI Lab                                    | MIT and IBM                      | UK   | [Link](https://mitibmwatsonailab.mit.edu/category/graph-deep-learning/)                         |
+| Alelab                                    | University of Pennsylvania                      | USA   | [Link](https://alelab.seas.upenn.edu/)                         |
 | Machine Learning Research Group                        | University of Oxford                    | UK      | [Link](https://www.cs.ox.ac.uk/department/machine-learning-research-group/) |
 | Graph Deep Learning Lab                                | National University of Singapore        | Singapore | [Link](https://graphdeeplearning.github.io/)                     |
 | THU Information Retrieval Lab                          | Tsinghua University                     | China   | [Link](https://www.thuir.cn/en/index)                            |
 | Graph Research Lab                                     | Australian National University          | Australia | [Link](https://graphlabanu.github.io/website/)                           |
 | Facebook AI Research                                   | Facebook                               | Global  | [Link](https://ai.facebook.com/)                                 |
 | Google Research                                        | Google                                 | Global  | [Link](https://research.google/)                                 |
+
 
 ### Citations
 - [Representation Learning and Reasoning with Graph Neural Networks MIT CSAIL](https://www.csail.mit.edu/research/representation-learning-and-reasoning-graph-neural-networks)
