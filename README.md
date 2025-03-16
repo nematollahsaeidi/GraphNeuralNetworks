@@ -8,7 +8,7 @@ If you know of any institutes, companies, universities, or laboratories working 
 
 | Name                                                   | University/Institute/Lab        | Country | Link                                                             |
 |--------------------------------------------------------|----------------------------------------|---------|------------------------------------------------------------------|
-| Jure Leskovec's Research Group                         | Stanford University                     | USA     | [cs.stanford.edu/people/jure/](https://cs.stanford.edu/people/jure/)                     |
+| Stanford Network Analysis Platform (SNAP)                         | Stanford University                     | USA     | [snap.stanford.edu/index.html](https://snap.stanford.edu/index.html)                     |
 | Alelab                                    | University of Pennsylvania                      | USA   | [alelab.seas.upenn.edu/](https://alelab.seas.upenn.edu/)                         |
 | Computer Science & Artificial Intelligence Laboratory | MIT                                    | USA     | [csail.mit.edu/](https://www.csail.mit.edu/) |
 | Machine Learning Department                            | Carnegie Mellon University              | USA     | [cmu.edu/dietrich/statistics-datascience/research/graphical-models-networks.html](https://www.cmu.edu/dietrich/statistics-datascience/research/graphical-models-networks.html) 
