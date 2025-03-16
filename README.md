@@ -4,7 +4,7 @@ If you know of any institutes, companies, universities, or laboratories working 
 
 ![GNNs_image](https://github.com/nematollahsaeidi/GraphNeuralNetworks/blob/main/GNNs_image.png)
 
-Below is a table summarizing research labs and institutes actively working on GNNs:
+## List of research labs and institutes:
 
 | Name                                                   | University/Institute/Lab        | Country | Link                                                             |
 |--------------------------------------------------------|----------------------------------------|---------|------------------------------------------------------------------|
@@ -23,7 +23,8 @@ Below is a table summarizing research labs and institutes actively working on GN
 | Mila Laboratory                                  | Quebec AI Institute                               | Canada   | [mila.quebec/en](https://mila.quebec/en)                                 |
 | Advanced Computing Laboratory  | ETH Zurich                                | Switzerland   | [acl.inf.ethz.ch/research/ASP/](https://acl.inf.ethz.ch/research/ASP/)                                 |
 
-Below is a table summarizing companies actively working on GNNs:
+
+## List of companies:
 
 | **Name**            | **Country**       | **Link**                                      | **Description**                                                                                     |
 |---------------------|-------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -74,5 +75,4 @@ Emad (Nematollah) Saeidi (nemat.saeidi@gmail.com)
 - [Stefano Ermon research group website](https://ermongroup.github.io/)
 - [Jennifer Neville faculty page Purdue University](https://www.cs.purdue.edu/homes/jneville/)
 - [Jian Tang personal website](https://jiantang.com/)
-- 
 
