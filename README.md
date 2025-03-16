@@ -16,7 +16,7 @@ Below is a table summarizing research labs and institutes actively working on GN
 | Machine Learning Research Group                        | University of Oxford                    | UK      | [Link](https://www.cs.ox.ac.uk/department/machine-learning-research-group/) |
 | Graph Deep Learning Lab                                | National University of Singapore        | Singapore | [Link](https://graphdeeplearning.github.io/)                     |
 | THU Information Retrieval Lab                          | Tsinghua University                     | China   | [Link](https://www.thuir.cn/en/index)                            |
-| Graph Research Lab                                     | Australian National University          | Australia | [Link](https://graphlabanu.github.io/)                           |
+| Graph Research Lab                                     | Australian National University          | Australia | [Link](https://graphlabanu.github.io/website/)                           |
 | Facebook AI Research                                   | Facebook                               | Global  | [Link](https://ai.facebook.com/)                                 |
 | Google Research                                        | Google                                 | Global  | [Link](https://research.google/)                                 |
 
@@ -38,4 +38,3 @@ Below is a table summarizing research labs and institutes actively working on GN
 - [Stefano Ermon research group website](https://ermongroup.github.io/)
 - [Jennifer Neville faculty page Purdue University](https://www.cs.purdue.edu/homes/jneville/)
 - [Jian Tang personal website](https://jiantang.com/)
-- [Graph Neural Networks in Action](https://books.google.at/books?id=r508zwEACAAJ)
