@@ -1,6 +1,6 @@
 # Graph Neural Networks
 ## List of academic institutions and companies conducting research and development in Graph Neural Networks
-If you know of any institutes, companies, universities, or laboratories working on Graph Neural Networks (GNNs) that are not listed here, please contribute by submitting a pull request or writing the details in issues or contacting me at nemat.saeidi@gmail.com. Thank you!
+If you know of any institutes, companies, universities, or laboratories working on Graph Neural Networks (GNNs) that are not listed here, please contribute by submitting a pull request or writing the details in issues or contacting me. Thank you!
 
 ![GNNs_image](https://github.com/nematollahsaeidi/GraphNeuralNetworks/blob/main/GNNs_image.png)
 
