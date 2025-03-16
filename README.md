@@ -27,7 +27,7 @@ Below is a table summarizing research labs and institutes actively working on GN
 | Google Research                                        | Google                                 | Global  | [Link](https://research.google/)                                 |
 
 ### Contact:
-Emad Saeidi (nemat.saeidi@gmail.com)
+Emad (Nematollah) Saeidi (nemat.saeidi@gmail.com)
 
 ### Useful links:
 - [Representation Learning and Reasoning with Graph Neural Networks MIT CSAIL](https://www.csail.mit.edu/research/representation-learning-and-reasoning-graph-neural-networks)
